@@ -4,19 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0d2ce913-071b-472f-a14f-7cdda7a13058" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/entidad/Producto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/menu/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operaciones/Imprimir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operaciones/ManejadorProductos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/operaciones/OrdenadorProductos.java" afterDir="false" />
-    </list>
+    <list default="true" id="0d2ce913-071b-472f-a14f-7cdda7a13058" name="Changes" comment="Fin del proyecto" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,8 +88,23 @@
       <option name="presentableId" value="Default" />
       <updated>1653345597697</updated>
       <workItem from="1653345599843" duration="12151000" />
-      <workItem from="1653401700403" duration="4660000" />
+      <workItem from="1653401700403" duration="4985000" />
     </task>
+    <task id="LOCAL-00001" summary="Fin del proyecto">
+      <created>1653406605230</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1653406605230</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Fin del proyecto">
+      <created>1653406684434</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1653406684434</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -117,5 +120,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Fin del proyecto" />
+    <option name="LAST_COMMIT_MESSAGE" value="Fin del proyecto" />
   </component>
 </project>
